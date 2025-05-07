@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Visit_Date,Diagnosis,Department,Bill_Amount,Follow_Up
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,82,M,8/20/2024,Malaria,Orthopedics,2826.47,Yes
+bc8960a9-23b8-41e9-b924-56de3eb13b90,14,M,6/14/2024,Asthma,General Medicine,783.07,Yes
+8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,30,M,6/8/2024,Hypertension,Dermatology,4485.44,No
+07a0ca6e-0822-48f3-ac03-1199972a8469,76,F,6/11/2024,Malaria,Pediatrics,7132.32,No
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,36,M,5/16/2024,Hypertension,Orthopedics,1471,No
+a65ed389-b74d-4fb1-b2e7-06298fadc1a6,13,F,2/2/2025,Skin Rash,Dermatology,3012.95,Yes
+72ff5d2a-386e-4be0-ab65-a6a48b8148f6,59,M,12/20/2024,Asthma,General Medicine,5744.39,No
+01a9e71f-de8a-474b-8f36-d58b47378190,74,M,2/24/2025,Flu,General Medicine,6782,No
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,11,M,9/15/2024,Flu,Cardiology,3140.75,No
+f50bea63-371e-4d7b-a7cd-813047229389,21,F,2/26/2025,Skin Rash,Pediatrics,6866.66,Yes
+6142ea7d-17be-4111-9a2a-73ed562b0f79,78,M,6/12/2024,Hypertension,Pediatrics,4891.47,No
+9a8dca03-580d-4b71-98f5-64135be6128e,82,M,8/16/2024,Skin Rash,General Medicine,2675.96,Yes
+759cde66-bacf-43d0-8b1f-9163ce9ff57f,41,F,11/30/2024,Diabetes,General Medicine,2504.34,No
+60e7a113-ec1b-4ca1-b91e-1d4c1ff49b78,28,F,6/5/2024,Asthma,Cardiology,1857.28,Yes
+a0ee89ae-d453-4d32-8b0d-bb418d5288f1,32,F,1/1/2025,Asthma,Dermatology,4294.3,Yes
+93cd59bf-5c94-4cf0-9c98-d2c1e2acf72f,18,F,7/19/2024,Flu,General Medicine,8680.48,Yes
+a9488d99-0bbb-4599-91ce-5dd2b45ed1f0,81,M,8/2/2024,Asthma,Dermatology,1103.51,No
+146d3f31-fc37-4a4c-8a15-544dc5e7ce8a,77,F,4/3/2025,Diabetes,Dermatology,8677.41,Yes
+614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,88,M,8/21/2024,Diabetes,Orthopedics,1559.75,No
+5d65a441-d588-42de-a2bc-372f7412b293,21,F,7/8/2024,Malaria,Orthopedics,9732.94,Yes
+ab9099a4-35a2-40ae-9af3-05535ec42e08,65,M,8/17/2024,Diabetes,Dermatology,6285.22,Yes
+a5e5a5ab-aefc-4ad8-afc8-9849b3aa7efe,48,M,6/2/2024,Malaria,Dermatology,3579.48,Yes
+88bd6407-2bcf-4e01-a28d-efe39bf00273,15,F,2/13/2025,Diabetes,Pediatrics,1050.29,Yes
+6123fdf7-7656-4f72-a9d4-beef3eabedcb,11,F,8/18/2024,Flu,Dermatology,7775.43,Yes
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6,85,F,12/8/2024,Fracture,Orthopedics,5512.9,No
+d7c524a5-5304-417f-af42-e12f3838b326,28,M,2/28/2025,Diabetes,Cardiology,9953.92,No
+d261a7ab-3aa2-44f9-8e51-f30dc6a7ee39,57,F,5/18/2024,Flu,Pediatrics,2634.62,No
+448aaa9e-66b2-4c5b-90c1-87fcce177b4e,3,M,5/31/2024,Hypertension,General Medicine,1174.43,Yes
+9132b63e-f162-47e4-a9c3-49e03602f8ac,30,M,4/11/2025,Malaria,Orthopedics,1173.14,Yes
+a7cad415-366e-416f-908e-bad7b7c93acf,36,F,11/15/2024,Hypertension,Dermatology,1756.96,No
+a491f0b2-ea1f-4a65-a27a-984d654821d0,32,F,10/31/2024,Asthma,Pediatrics,1396.1,No
+3f22faf8-23be-401d-83cf-2fde24933b83,46,F,2/19/2025,Asthma,Cardiology,8706.45,Yes
+bf3c4c06-4343-48bc-89fa-6a688fb5d27b,87,M,12/19/2024,Malaria,Cardiology,7418.03,Yes
+663f1c97-9562-49f0-a5d7-b8756dadd6c7,32,M,9/23/2024,Hypertension,Dermatology,4761.83,No
+2369b584-ff5e-4ff0-bf50-bde4382567b8,24,F,11/19/2024,COVID-19,Pediatrics,8807.62,Yes
+0c0fd195-c17a-408a-9745-d6d87e570ddf,57,M,4/5/2025,Malaria,Dermatology,8442.26,Yes
+28f49481-a0a0-4dc4-a720-9bdf1c11f735,31,M,3/9/2025,Asthma,Cardiology,5072.9,No
+10435a10-98ae-4334-ac12-ace8ae340454,8,M,10/2/2024,Asthma,General Medicine,9860.43,No
+77d21e02-ff01-4f99-988c-24c961b1cd22,59,F,11/27/2024,Asthma,Dermatology,6787.78,No
+dc5c0eed-8da0-465b-b898-97b9405cacec,20,M,5/10/2024,Diabetes,Pediatrics,9702.74,Yes
+ae849217-1d53-434b-b881-39b9ae270da7,41,M,4/14/2025,Malaria,Dermatology,5029.49,Yes
+c4c2e2e3-444e-47c8-8039-87108976e334,8,M,1/9/2025,Fracture,General Medicine,6152.83,Yes
+6f4cc69a-4b22-4308-9c8e-aee95715bd6f,52,M,7/6/2024,Hypertension,Dermatology,6147.93,Yes
+b8db0672-f42d-47cc-80d4-af5974273ca3,54,F,4/11/2025,Diabetes,Pediatrics,6862.4,No
+8026695f-f8cd-488b-836d-76e2b83cfe0b,31,F,2/25/2025,Asthma,Pediatrics,6881.06,No
+1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,59,F,4/9/2025,Flu,General Medicine,4853.71,Yes
+a39231a7-d777-4477-8c66-e0a8a013ac6e,10,M,11/19/2024,Diabetes,Pediatrics,9365.96,Yes
+5fb8d16c-2720-497d-b2eb-d6899be578c7,32,F,2/26/2025,Diabetes,Pediatrics,4662.75,No
+c754108f-f418-4f3f-8a14-be62295b4715,79,M,4/29/2025,Diabetes,General Medicine,9419.84,Yes
+99546eb4-0025-4ad1-ab22-63dd87c5421e,34,M,9/8/2024,Flu,Dermatology,1976.76,No
+edd96831-1ca3-4cfb-84fc-6d827d154385,78,M,9/23/2024,Skin Rash,Pediatrics,7031.22,No
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0,65,F,9/2/2024,Diabetes,General Medicine,1376.84,No
+e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37,36,M,12/12/2024,Malaria,Orthopedics,7825.63,No
+bb5e4bcf-15ed-4269-9429-6c07f26b4776,21,F,11/10/2024,Asthma,Dermatology,591.86,Yes
+c2b6d2c5-fa5d-4100-91b7-e948d0e6e660,89,M,11/28/2024,Malaria,Orthopedics,6033.84,Yes
+a8e56e0c-20de-435d-a031-d750c40db9b4,56,M,11/6/2024,Malaria,Orthopedics,3964.19,Yes
+43dac043-2a45-42ab-8cbf-edb0f264accc,46,M,11/26/2024,Hypertension,General Medicine,3859.95,No
+f6e07cc0-6c52-449f-9b49-bd26df57c59a,80,M,7/27/2024,Hypertension,Pediatrics,9773.96,Yes
+badcc32a-c159-4f53-8a0f-4efbedcd465e,53,M,1/28/2025,Fracture,Orthopedics,7932.67,No
+66245bfa-4fcc-439a-b683-d2e6337ea2df,86,M,1/21/2025,Diabetes,Pediatrics,7980.06,Yes
+e64d1bcb-7027-43a1-9f98-7c71a65e688e,49,M,11/23/2024,COVID-19,Pediatrics,2395.94,No
+3985c3cf-3f76-4e1d-9efa-21977394988f,45,F,5/30/2024,Hypertension,Pediatrics,724.81,Yes
+8dcdcd03-969b-4662-8562-8059568cc69b,52,F,8/3/2024,Diabetes,General Medicine,9685.45,No
+122c9a56-01d7-4256-b860-2ab696a402f2,45,F,2/4/2025,Skin Rash,General Medicine,1595.75,No
+114125c6-3a9b-4dd4-8f12-59e0a18ff6b6,23,F,4/22/2025,Malaria,General Medicine,6167.43,No
+1223b513-5496-463c-9c11-10c1080aadfb,41,F,11/21/2024,Flu,Cardiology,9045.29,Yes
+7c441fe7-ab42-40a7-874a-493b3ceddf2d,33,M,7/28/2024,Asthma,General Medicine,5439.24,Yes
+ef7ddc76-b92d-422b-a1df-306f8a0b3c33,47,F,4/13/2025,Flu,Orthopedics,6419.98,Yes
+3e351128-7900-47f9-9382-9b43922fe15a,39,F,3/6/2025,Asthma,Orthopedics,4322.8,No
+30beb45f-6835-44f2-8eb8-1f9d7914c120,71,M,6/11/2024,Hypertension,Cardiology,6816.83,No
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,87,M,10/17/2024,Diabetes,Cardiology,5705.4,Yes
+baa4b71a-dd24-47ac-b78e-edb3693dffbc,39,F,5/27/2024,Hypertension,Cardiology,7964.71,No
+a56c0941-fbf2-4050-a748-dbcfac619e63,60,F,6/13/2024,COVID-19,Pediatrics,5356.15,Yes
+56dc8907-ba6c-44ab-a712-303a0f844fef,85,M,3/12/2025,Diabetes,Dermatology,6806.61,No
+310c0c00-3fa7-4104-9bf9-0e27dc96925e,12,M,7/18/2024,Diabetes,Pediatrics,8162.35,Yes
+6c006f61-23e2-4cb4-b2d8-567d894a05e4,4,M,7/16/2024,Hypertension,Cardiology,6307.1,Yes
+dfde4fbf-3ff3-40bf-b66e-cb15474ebc19,59,F,4/29/2025,Hypertension,Cardiology,5196.58,Yes
+dc815fe7-ceda-4bbb-b171-0434134c6c92,19,M,4/3/2025,Flu,Cardiology,2578.99,No
+a6f2f7b8-0cf3-4b58-9910-8be58ce21ea3,7,M,12/1/2024,Flu,Cardiology,1766.72,No
+17e011b7-f810-4383-83c7-2ba8d605e770,86,F,4/30/2025,COVID-19,Dermatology,8242.56,No
+2a935d62-3c83-4dc0-9944-1fa5c0e9ab30,71,F,10/10/2024,Fracture,Cardiology,4775.66,Yes
+dd59ba71-36b8-4481-bb3a-4e3e7c52fa17,82,F,10/8/2024,COVID-19,Pediatrics,3108.68,Yes
+610461e3-2a25-4888-8f02-bad0e7067ef4,37,M,5/6/2024,Diabetes,Orthopedics,3537.24,Yes
+ed3049cf-43e4-48fc-a3f2-ae24fc3d3348,18,M,3/6/2025,Hypertension,Cardiology,7092.52,Yes
+6c4a37ea-4906-47f2-b47b-6dbac8fe3ccd,9,F,1/31/2025,Asthma,Orthopedics,5654.81,No
+c88a618e-fed4-457d-bb02-6576f512c4c3,8,M,12/7/2024,Asthma,Cardiology,9095.97,Yes
+27a0c3d7-7c96-4f79-b7e9-9acaa97065e1,74,F,7/18/2024,COVID-19,General Medicine,9456.05,No
+0ef8c2d6-f7fd-4646-b7bb-3eec4bf50b52,50,F,12/16/2024,Hypertension,Cardiology,2584.51,No
+bf7b539b-0f9a-4a4b-8acd-4e10bc594585,63,M,9/4/2024,Asthma,Orthopedics,6854.3,No
+7a0ecfea-958c-49ba-8cd6-20c20ea2622b,22,F,11/17/2024,Fracture,Dermatology,5574.17,No
+284d82e5-87f7-41fb-9a4b-d9caeb5cf467,76,M,5/28/2024,Flu,Cardiology,1789.15,No
+d9f195d0-1482-4f53-8201-0c62f5f59b22,24,M,7/17/2024,Diabetes,Cardiology,3609.85,No
+acdabacc-1165-4210-9854-3881118a9d29,42,F,4/5/2025,Asthma,Orthopedics,7644.09,No
+f10c718b-1eb0-438a-a75d-d5af3c365296,33,M,4/16/2025,COVID-19,General Medicine,7615.73,Yes
+98326856-9434-4a03-bf07-f81491d63f78,45,M,5/21/2024,Flu,General Medicine,7665.22,Yes
+a8499b92-6b52-42e3-94fc-dd549e8fc965,26,M,12/18/2024,Fracture,Pediatrics,1699.1,Yes
+ef48e8d5-50fd-4d3f-85d5-169590b2b633,73,M,8/15/2024,COVID-19,Orthopedics,7785.53,Yes
+506e5a9a-b758-488d-ab73-295b344a54b8,78,M,8/6/2024,Fracture,Orthopedics,1526.94,Yes
+abf3e3fc-2181-4d25-a552-38a643ff5011,40,F,1/11/2025,Asthma,Pediatrics,1221.97,Yes
+edd4253b-50f0-4d0a-b50c-ab754ccc9bc2,14,F,2/21/2025,Flu,Dermatology,7935.04,No
+75523327-0262-4f73-9292-2f83ef8c485b,69,F,1/2/2025,Skin Rash,General Medicine,5306.63,No
+19985f15-ff00-4d4d-9020-59e4ff9ab5c2,2,F,6/3/2024,COVID-19,General Medicine,4618.47,No
+43e42caf-8181-48cc-b691-47eb89a2688b,82,F,6/26/2024,Fracture,Cardiology,2173.3,No
+119c4ea3-e180-4081-9958-a499eeea163e,79,F,4/12/2025,COVID-19,Cardiology,8344.48,No
+286218b8-48f4-4f12-9e99-53d23e896c64,42,M,10/23/2024,Flu,Orthopedics,8875.5,Yes
+4d71c366-b41b-4143-8b10-550cd5704f32,60,F,12/29/2024,Skin Rash,General Medicine,5195.91,No
+a76afde6-ce9e-4a11-bcbb-4e59fbddcf7c,24,F,11/27/2024,Hypertension,Orthopedics,8079.41,No
+8dfa6a56-d12d-4c9a-aaf9-15310200b1f0,36,F,8/30/2024,Malaria,Dermatology,9506.59,Yes
+f05db76e-1a84-451a-a9d3-d7c7ee87905e,31,F,4/12/2025,COVID-19,Dermatology,7702.56,No
+e3c43657-1d8c-4bac-83b4-09ef2260e70f,83,F,6/16/2024,COVID-19,General Medicine,1384.01,Yes
+45b89cd9-27cb-4f2a-8da0-1097be0f051b,52,M,8/23/2024,Diabetes,Dermatology,4005.69,No
+57c700aa-b7b5-4ea7-b5eb-d32d9ad620ab,55,F,7/24/2024,Skin Rash,Cardiology,3073.71,No
+439472e6-da58-4e8a-a25d-6b29afffcfd2,30,M,11/18/2024,Hypertension,Orthopedics,1635.77,Yes
+e87d1c78-e7c4-41c7-8049-7b717d106c60,25,M,3/30/2025,COVID-19,Orthopedics,7383.56,No
+6c6f7633-a260-4723-97a0-df490d01280f,13,M,3/24/2025,Diabetes,Pediatrics,3928.37,No
+5563f616-00e8-4ece-8b49-452d46d483f3,2,M,3/1/2025,Diabetes,General Medicine,9755.8,No
+430f801d-fad4-49e2-a319-dcb4217d65a0,90,M,7/7/2024,COVID-19,General Medicine,8790.84,No
+b4a69f3c-8d3a-4d99-b11c-21c9bdc14f1f,61,F,10/19/2024,COVID-19,Orthopedics,2251.45,Yes
+13432e61-1ca3-4448-8279-b6a68f9797b0,33,F,4/13/2025,Flu,General Medicine,4306.72,Yes
+8babce3b-2628-4bfb-a767-dceab0e6a969,74,M,5/19/2024,Fracture,Pediatrics,8205.85,No
+8d7248e2-951f-48d0-9e84-f058d5a804eb,11,M,7/2/2024,Flu,Dermatology,7762.21,Yes
+4eea04e7-0ab5-4bde-a0a0-45026e068097,67,F,9/24/2024,COVID-19,Cardiology,3324.85,No
+f8e1daa7-cbce-4bde-aede-db07e623a689,40,M,4/5/2025,Flu,Pediatrics,6442.39,No
+35c7936c-5b99-42c6-a61f-ecc00a368ce7,85,M,1/25/2025,Fracture,Pediatrics,2151.23,Yes
+5a8aaeca-1a50-4ec3-aabc-25fa3fe12e47,21,M,3/4/2025,Asthma,Cardiology,7049.03,No
+6808593f-dfed-4c43-a256-a6dc8f5486b7,38,M,1/2/2025,Hypertension,Orthopedics,7216.08,No
+ee0caeb5-ecfe-4b99-a790-cebdbfddc3d9,10,M,8/5/2024,Diabetes,Dermatology,6781.24,Yes
+ccc56569-f9e8-4369-a999-b735dd56cc94,55,M,3/16/2025,Hypertension,Pediatrics,9129.91,Yes
+0658663a-698c-406f-a1a4-7e102d534dd0,10,M,7/14/2024,Fracture,Orthopedics,6152.92,No
+c84a7b28-550a-4b46-acab-3301bc8f7d29,57,M,5/2/2025,COVID-19,Orthopedics,7147.47,No
+dd334cc7-ab7f-489a-8d5f-4822696608aa,65,F,2/15/2025,COVID-19,General Medicine,6181.35,No
+28c13091-444d-410b-bf87-e362cf8d446a,42,F,3/7/2025,Malaria,General Medicine,2674.78,Yes
+df465290-61ee-411a-9bac-27a7b386f7a4,87,F,5/21/2024,Malaria,Pediatrics,4969.76,No
+33173470-38f1-4a81-b87f-2425dbccc477,36,M,3/19/2025,Asthma,Cardiology,9706.02,No
+4e20fd1a-5983-46e3-b5d6-6ed4eb1fa9f2,45,F,3/20/2025,Skin Rash,Orthopedics,6866.27,Yes
+39118497-3a43-42ba-9f0f-06cbcb9bc326,43,F,5/15/2024,COVID-19,Orthopedics,6794.54,No
+5408f9ac-6601-4dd0-b170-f437a8f7ef5a,71,M,8/22/2024,COVID-19,General Medicine,3487.91,No
+c5f8bc16-f786-4b50-91c5-8ef0dd463c09,15,F,8/22/2024,Malaria,Dermatology,4888.78,Yes
+6651529e-8268-490b-a438-25b559e4b671,25,F,1/24/2025,COVID-19,Cardiology,7719.91,Yes
+54c63cd8-8945-4f27-97fa-2d8dfb2ca025,35,M,5/5/2025,Diabetes,Cardiology,8868.04,No
+f86c2ca2-e085-46db-9d87-09660710d430,16,M,8/15/2024,Hypertension,Pediatrics,3452.13,Yes
+fbc9f87a-f668-4617-94a1-875d2db69edb,71,F,8/17/2024,Flu,Pediatrics,9926.44,Yes
+6f3f920c-98b8-44cc-9bc0-44fc09cb3942,60,M,9/17/2024,Fracture,Cardiology,9360.2,No
+6fb78271-504d-481f-8953-5b63ba81edd9,66,F,12/27/2024,Asthma,Cardiology,9812.32,Yes
+629c2ae3-1d9a-4659-82ec-9f2dfbf6e16f,59,M,4/20/2025,Asthma,Pediatrics,9257.75,Yes
+0b5cea6a-4135-4e8c-b0a9-00ad939b462d,9,F,2/5/2025,Asthma,Orthopedics,9375.36,No
+ecf27e76-8519-4ff4-806e-d6e36fa17735,1,F,3/15/2025,Diabetes,Dermatology,6009.27,No
+f0b5156b-b82c-4074-afd5-dea589d7fd6c,20,F,2/18/2025,COVID-19,Orthopedics,3658.18,No
+5d3d9e56-3270-44fa-abae-4f43bcae8081,59,F,10/20/2024,Hypertension,Pediatrics,5932.08,Yes
+ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,53,M,9/11/2024,Skin Rash,Cardiology,7199.66,No
+d9178793-a9d3-42e6-905c-c6869f871ce7,50,M,6/23/2024,COVID-19,General Medicine,1699.34,No
+81d2c7de-4ce1-4b90-a669-7833b841d0a0,13,F,9/3/2024,Flu,Dermatology,9149.2,Yes
+6703b636-5380-4904-a88c-7015aab97e49,19,F,1/31/2025,Fracture,General Medicine,4960.16,No
+311c6eb6-2095-4ef6-8ded-f9fb4bb00f20,44,F,10/16/2024,Flu,Orthopedics,8597.24,No
+ad64b56c-610f-4a3f-b0bb-ac67aa38d0a1,41,F,2/20/2025,Malaria,Dermatology,1150,No
+91b0e1d9-9d92-42af-ac8d-0e44e71e43a6,30,M,8/30/2024,Asthma,General Medicine,7723.51,Yes
+001a9a8b-d56f-4350-8c45-9ce267f48ad5,57,M,9/1/2024,Diabetes,General Medicine,936.91,Yes
+c9277d9b-6e0d-4648-b5ce-884149732d6c,38,F,12/17/2024,Skin Rash,Cardiology,1882.91,No
+77097749-527e-4cfa-a79a-c9aa9b4e2c24,73,M,10/24/2024,Fracture,Pediatrics,1250.2,No
+82dc4c8e-36b5-429a-acf5-e81e71316269,80,M,11/5/2024,COVID-19,Dermatology,1859.62,No
+cbc84759-f5b7-4cc7-a6b3-c944cb323e35,82,F,2/15/2025,COVID-19,Orthopedics,6834.99,No
+48a639d0-15b5-4908-a8aa-71582b70e525,37,M,11/22/2024,Flu,Cardiology,9479.74,No
+55cee5db-9e87-404c-a208-6977a9f25336,82,F,6/11/2024,Diabetes,Cardiology,8530.39,Yes
+3c20592f-c04a-46c4-b3b6-3fe1d1843324,50,F,1/22/2025,Flu,Pediatrics,4122.96,No
+32fa2de8-ce7a-47f6-b982-0cff4f77a665,74,F,7/2/2024,Diabetes,General Medicine,9790.47,No
+fbe33b24-3eae-4032-8bd4-a9900640be0f,36,M,11/6/2024,Malaria,Dermatology,7579.14,No
+12a4def0-c4bb-47a9-9988-68dd9c7c7377,30,F,10/29/2024,Hypertension,Pediatrics,6398.47,Yes
+935f2b0a-a138-4ddc-a2d9-de5d6a18ce4c,81,M,7/20/2024,Malaria,Orthopedics,7991.8,Yes
+7e8f8095-624c-49b6-b244-45a7b7e58481,75,F,10/8/2024,Fracture,General Medicine,9141.46,No
+b00805cc-a7f3-4ae9-a5c7-3c443e75c3b4,54,M,5/8/2024,Hypertension,Pediatrics,7971.87,No
+c521bf2d-dc45-4539-803f-3538e4855aa1,68,F,4/14/2025,Fracture,Orthopedics,9183.47,No
+3805f907-6cd6-4193-8746-8f591b494e15,38,F,7/13/2024,Flu,Cardiology,9647.49,Yes
+8498e113-b227-462c-b53d-4330cdda24ba,29,F,11/2/2024,Skin Rash,General Medicine,8011.48,Yes
+eadf5085-3fcb-4546-8eb2-25790cdb1ca4,34,M,3/31/2025,COVID-19,Orthopedics,6891.87,No
+cd29a36f-2222-42e1-b4da-aebf1f115b76,75,F,11/2/2024,Skin Rash,General Medicine,6910.95,No
+8f15ba58-fce6-4504-87f8-424daae65fc1,4,F,12/23/2024,Hypertension,General Medicine,6536.34,No
+e4347d51-c158-4092-b335-cba3513a7052,90,F,10/24/2024,Asthma,General Medicine,1827.88,Yes
+e45b712e-b822-4688-90a4-44329cd6c852,39,F,11/18/2024,Flu,General Medicine,2730.6,Yes
+8c41561b-e827-41b9-94a0-2e536d3ee1dc,50,F,10/26/2024,Skin Rash,Dermatology,4481.7,Yes
+dc8aee30-be60-43f7-a8be-9288e5af6e39,54,M,11/6/2024,COVID-19,Dermatology,4377.1,No
+3f4b1a70-c074-418e-825a-609f7337c599,5,F,3/28/2025,Hypertension,Cardiology,4724.61,Yes
+c715b2b9-c40c-4d91-86fd-e062a33dc7af,47,M,11/24/2024,Skin Rash,Dermatology,9066.11,No
+464c04af-3d3f-4799-a072-95e97c0e8cd8,8,F,10/23/2024,Diabetes,Pediatrics,9697.97,No
+3c07c574-4925-4af1-b6aa-e05b13d5f2f7,12,M,8/19/2024,Malaria,General Medicine,7974.55,Yes
+8a476a87-e49d-481d-91d8-7c6455fa1ab8,17,M,6/6/2024,Flu,Dermatology,2468,Yes
+620e99d3-3b33-43d8-a69c-d696236c7b87,30,F,1/30/2025,Fracture,Dermatology,526.94,Yes
+10714d51-36c5-4dac-b4d7-e28e271e3ee2,17,F,10/14/2024,Fracture,General Medicine,6780.05,Yes
+7746d0ba-8ae8-405b-94b4-a48268586eba,17,M,10/14/2024,Skin Rash,Pediatrics,6094.1,Yes
+6b8e869f-d538-4b0e-b4f3-193c0ff0a55c,23,F,10/4/2024,Malaria,Pediatrics,7546.32,Yes
+f2311f17-9586-4a76-8511-55ffe7a37e81,9,F,1/31/2025,COVID-19,Orthopedics,5375.76,Yes
+c3fe0183-e172-4725-9b52-ca5805000bc6,58,M,12/15/2024,Malaria,Dermatology,3365.49,Yes
+f1578470-0182-47c4-ba1b-58066160a6b4,8,F,9/19/2024,Asthma,Cardiology,7017.93,No
+da7b9095-63d6-4a39-80e3-befd4c71e0fe,57,M,4/17/2025,Flu,Orthopedics,6278.83,Yes
+89c8d2ab-6b44-4a8d-95f2-5073f41402b1,17,F,2/20/2025,Skin Rash,Cardiology,9948.96,No
+9a6ec2f5-ccc4-4903-8bcf-53a1bc10fa52,59,F,4/19/2025,Flu,General Medicine,8601.53,Yes
+45df16b6-382c-443f-bcfc-9b793875394c,56,F,10/22/2024,Hypertension,Cardiology,3719.85,No
+560c95ee-638c-454c-876e-2bba7c5308bf,52,F,1/20/2025,Flu,Orthopedics,4554.26,No
+b963f37f-6781-4c1f-8c53-0e36addc3e13,48,M,7/9/2024,COVID-19,General Medicine,1366.64,Yes
+20ac3703-eb67-446a-b7a6-e17cd72b6108,12,F,1/2/2025,Flu,Orthopedics,8211.81,Yes
+64de82e6-e82c-4d7b-86e7-45f988bc539c,76,F,12/21/2024,Flu,Cardiology,3859.18,No

@@ -1,0 +1,11 @@
+date,user_id,amount,transaction_type
+2023-01-01,1051,187,transfer
+2023-01-02,1092,472,transfer
+2023-01-03,1014,199,transfer
+2023-01-04,1071,971,payment
+2023-01-05,1060,763,payment
+2023-01-06,1020,230,transfer
+2023-01-07,1082,761,transfer
+2023-01-08,1086,408,payment
+2023-01-09,1074,869,payment
+2023-01-10,1074,443,payment
